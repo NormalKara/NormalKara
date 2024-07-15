@@ -1,6 +1,7 @@
 I’m @NormalKara , but just call me Kara (she/it)
 
 Currently working on developing a small game project
+
 📫 How to reach me: Don't! or use Twitter
 
 <!---
